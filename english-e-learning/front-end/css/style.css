@@ -1,0 +1,19 @@
+#oefening-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bg-light{
+    background-color: #9fb8d1!important;
+}
+
+.list-group{
+    padding-bottom: 20px;
+    max-height: 215px;
+    overflow-y: auto;
+}
+
+#video{
+    max-width: 50vw;
+}
